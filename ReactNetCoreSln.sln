@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{534D6818-706C-4C5C-93F0-4B95703C08BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactNetCoreBootstrap", "ReactNetCoreBootstrap\ReactNetCoreBootstrap.csproj", "{523C0CA3-0A3E-4981-A58D-EE93C57C0272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534D6818-706C-4C5C-93F0-4B95703C08BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534D6818-706C-4C5C-93F0-4B95703C08BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534D6818-706C-4C5C-93F0-4B95703C08BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534D6818-706C-4C5C-93F0-4B95703C08BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523C0CA3-0A3E-4981-A58D-EE93C57C0272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523C0CA3-0A3E-4981-A58D-EE93C57C0272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523C0CA3-0A3E-4981-A58D-EE93C57C0272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523C0CA3-0A3E-4981-A58D-EE93C57C0272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B911A559-3713-4DF6-96E7-D30E047AED07}
+	EndGlobalSection
+EndGlobal
